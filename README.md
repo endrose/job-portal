@@ -49,7 +49,15 @@ php artisan migrate:fresh --seed
 php artisan serve
 php artisan serve --port=8001
 
+## Preview
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 
+## Preview API
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 
