@@ -23,11 +23,13 @@ Proyek ini menggunakan:
 ```bash
 git clone <repository-url>
 cd <project-folder>
+```
 
 
 ## Install dependencies
 ```bash
 composer install
+```
 
 
 ## Env Konfiguasi
@@ -38,16 +40,19 @@ DB_PORT=3306
 DB_DATABASE=db_job_portal
 DB_USERNAME=root
 DB_PASSWORD=
+```
 
 ## Migrate Database
 ```bash
 php artisan migrate:fresh --seed
+```
 
 
 ## Running Server & Konsumsi API
 ```bash
 php artisan serve
 php artisan serve --port=8001
+```
 
 ## Preview
 ![alt text](image.png)
