@@ -58,6 +58,7 @@ php artisan serve --port=8001
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+![alt text](image-5.png)
 
 
 ## Preview API
